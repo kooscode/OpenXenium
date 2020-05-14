@@ -31,6 +31,8 @@
 *.dylib
 
 # Executables
+*.iso
+*.xbe
 *.exe
 *.out
 *.app
